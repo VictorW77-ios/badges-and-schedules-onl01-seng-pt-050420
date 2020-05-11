@@ -11,4 +11,4 @@ end
 
 def assign_rooms
   room_assignments = []
-  attendees.each { |name, index| room_assignments.push("Hello ")
+  attendees.each { |name, index| room_assignments.push("Hello, #{name}!")
