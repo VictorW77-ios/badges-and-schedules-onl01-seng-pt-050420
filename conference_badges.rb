@@ -12,3 +12,4 @@ end
 def assign_rooms
   room_assignments = []
   attendees.each { |name, index| room_assignments.push("Hello, #{name}! You'll be assigned to room #{index+1}!") }
+  
