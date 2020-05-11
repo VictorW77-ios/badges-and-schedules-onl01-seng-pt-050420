@@ -4,5 +4,5 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
-  attendees = 
+  badge_message.each
 end
